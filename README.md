@@ -22,20 +22,20 @@ git clone <URL_DO_REPOSITORIO>
 cd <NOME_DA_PASTA_DO_REPOSITORIO>
 2. Compilar o Código
 No terminal, navegue até o diretório onde está localizado o arquivo main.c e compile o código com o comando:
-
-bash
+```
+```bash
 Copiar código
 gcc -o robo main.c
 3. Executar o Programa
 Após a compilação bem-sucedida, execute o programa com o seguinte comando:
-
-bash
+```
+```bash
 Copiar código
 ./robo
 4. Instruções de Uso
 Posicionamento do Robô
 Quando solicitado, insira a linha (0-7) e a coluna (0-7) onde deseja posicionar o robô.
-
+```
 Posicionamento da Sujeira
 Após posicionar o robô, insira as coordenadas da sujeira na matriz. Você pode repetir este processo várias vezes para colocar sujeiras em diferentes locais. Para finalizar a inserção de sujeira, digite -1 para ambas as coordenadas (linha e coluna).
 
