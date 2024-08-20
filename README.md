@@ -1,5 +1,8 @@
 # Simulador de Robô de Limpeza
 
+![image](https://github.com/user-attachments/assets/0fcc85af-f490-45ec-9234-7ea689f24255)
+
+
 Este projeto foi desenvolvido por Tio Ben em 2018, durante o Curso de Mecatrônica no IFPE - Caruaru. O objetivo é simular um robô de limpeza que navega em uma matriz 8x8, removendo sujeiras e evitando obstáculos.
 
 ## Funcionalidades
