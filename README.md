@@ -53,7 +53,7 @@ Após a compilação, execute o programa com o seguinte comando:
 
 Você pode testar o código diretamente em seu navegador, sem precisar instalar nada, usando o compilador online disponível no seguinte link:
 
-[Teste o código online](https://onlinegdb.com/y1a37KABg)
+<a href="https://onlinegdb.com/y1a37KABg" target="_blank">Teste o código online</a>
 
 ## Estrutura do Código
 
