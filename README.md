@@ -26,7 +26,7 @@ git clone <URL_DO_REPOSITORIO>
 cd <NOME_DA_PASTA_DO_REPOSITORIO>
 ```
 
-### 2. Compilar o Código
+### 2. Compilar o código
 
 No terminal, navegue até o diretório onde está localizado o arquivo `main.c` e compile o código:
 
