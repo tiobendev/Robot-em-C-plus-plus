@@ -26,7 +26,7 @@ git clone <URL_DO_REPOSITORIO>
 cd <NOME_DA_PASTA_DO_REPOSITORIO>
 ```
 
-### 2. Compilar o código
+### 2. Compilar o Código
 
 No terminal, navegue até o diretório onde está localizado o arquivo `main.c` e compile o código:
 
@@ -48,6 +48,12 @@ Após a compilação, execute o programa com o seguinte comando:
 - **Posicionamento da Sujeira:** Insira as coordenadas da sujeira na matriz. Para finalizar a inserção, digite `-1` para ambas as coordenadas.
 - **Iniciar a Limpeza:** O robô começará a se mover automaticamente até que todas as sujeiras sejam removidas.
 - **Fim do Jogo:** O programa exibirá uma mensagem indicando que a limpeza foi concluída, junto com o número de passos dados pelo robô.
+
+## Teste o Código Online
+
+Você pode testar o código diretamente em seu navegador, sem precisar instalar nada, usando o compilador online disponível no seguinte link:
+
+[Teste o código online](https://www.programiz.com/online-compiler/2nScUuS2AmIu3)
 
 ## Estrutura do Código
 
